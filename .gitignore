@@ -1,0 +1,10 @@
+#hakyimlab tutorials
+hakyimlab/MetaXcan/tutorials/*
+!hakyimlab/MetaXcan/tutorials/README.md
+
+#BrainGENIE tutorials
+BrainGENIE/tutorials/*
+!BrainGENIE/tutorials/README.md
+
+#keep only .tar.xz
+sandra/predicted_expression.txt
